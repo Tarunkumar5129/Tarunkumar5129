@@ -27,5 +27,5 @@
 
 ![Tarunkumar5129's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tarunkumar5129&theme=vue-dark&hide_border=true)
 <img align="left" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunkumar5129&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Tarunkumar5129" />
-
+![Tarunkumar5129's Stats](https://github-readme-stats.vercel.app/api?username=Tarunkumar5129&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil-652004&show_icons=true&locale=en" alt="nikhil-652004" /></p>
