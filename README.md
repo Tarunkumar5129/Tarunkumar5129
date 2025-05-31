@@ -12,7 +12,7 @@
 
 - 📫 Reach me in **[Linkedin](https://www.linkedin.com/in/tarun-kumar-287144169/)**
 
-- 📄 Know about my experiences by resume [My Resume](https://drive.google.com/file/d/12pt_c751Y669eH9Azy6cciNbpTTcNv4I/view?usp=drive_link)
+- 📄 Know about my experiences by resume [My Resume](https://drive.google.com/file/d/1RMzDxwov0VRTJwn5KiXdMIXnj4NSu2Wr/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
